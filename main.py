@@ -23,4 +23,4 @@ user_input = input("What do yuo want?: ")
 user_input = user_input.lower()
 if user_input in myList:
     print ("that's it")
-
+print()
